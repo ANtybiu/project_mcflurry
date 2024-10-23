@@ -1,0 +1,9 @@
+#grid{
+  display: grid;
+  grid-template-columns: 60px 60px 60px 60px 60px 60px;
+  
+}
+.square{
+  border: 1px solid gray;
+  height: 60px;
+}
